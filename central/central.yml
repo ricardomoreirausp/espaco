@@ -1,5 +1,7 @@
 spring:
-  data:
+    data:
     mongodb:
-      host: 'localhost'
-      database: 'test'    
+        username: root
+        password: root
+        host: 'localhost'
+        database: 'test'    
